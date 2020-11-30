@@ -2,14 +2,22 @@ holidayCalcJSONXml - 节假日计算、JSON、Xml三连
 ============
 
 
-直接使用
+使用说明
 ----------------
-包含两年的数据
 
 ``` sh
 0 工作日 
 1 周末 
 2 节假日 
+```
+
+直接使用
+----------------
+包含两年的数据
+
+``` sh
+holidayJSONAll.json
+holidayXmlAll.xml 
 ```
 
 计算某年节假日
