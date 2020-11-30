@@ -4,10 +4,14 @@
 * 1 周末 
 * 2 节假日 
 
-# 计算某年节假日，可在浏览器控制台执行
+#### 计算某年节假日，可在浏览器控制台执行
 calc20xx.js             
 
-# 合并两年节假日
+#### 合并两年节假日
 concatHolidayArrAll.js
 
-方便使用，holidayJSONAll.json holidayJSONAll.xml 包含两年的数据，直接复制进代码中使用
+#### 直接使用两年的数据
+holidayJSONAll.json
+
+holidayJSONAll.xml 
+
