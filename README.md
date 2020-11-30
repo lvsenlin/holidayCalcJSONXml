@@ -33,6 +33,6 @@ calc20xx.js
 可在浏览器控制台执行
 
 ``` sh
-concatHolidayArrAll.js 
+concatHolidayJSONAll.js 
 ```
 
