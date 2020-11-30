@@ -1,6 +1,6 @@
-# HolidayArr - 节假日数组
+# holidayJSON - 节假日JSON
 
-纯数组，直接复制进代码中使用
+纯JSON，直接复制进代码中使用
 
-方便使用，holidayArrAll.js包含两年的数据
+方便使用，holidayJSONAll.json包含两年的数据
 
