@@ -1,0 +1,2927 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root type="array">
+    <item type="object">
+        <dayStr type="string">20200101</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200102</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200103</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200104</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200105</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200106</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200107</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200108</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200109</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200110</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200111</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200112</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200113</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200114</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200115</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200116</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200117</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200118</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200119</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200120</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200121</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200122</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200123</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200124</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200125</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200126</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200127</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200128</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200129</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200130</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200131</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200201</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200202</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200203</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200204</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200205</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200206</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200207</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200208</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200209</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200210</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200211</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200212</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200213</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200214</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200215</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200216</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200217</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200218</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200219</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200220</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200221</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200222</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200223</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200224</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200225</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200226</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200227</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200228</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200229</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200301</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200302</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200303</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200304</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200305</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200306</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200307</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200308</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200309</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200310</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200311</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200312</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200313</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200314</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200315</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200316</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200317</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200318</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200319</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200320</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200321</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200322</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200323</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200324</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200325</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200326</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200327</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200328</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200329</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200330</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200331</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200401</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200402</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200403</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200404</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200405</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200406</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200407</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200408</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200409</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200410</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200411</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200412</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200413</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200414</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200415</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200416</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200417</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200418</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200419</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200420</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200421</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200422</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200423</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200424</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200425</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200426</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200427</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200428</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200429</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200430</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200501</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200502</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200503</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200504</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200505</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200506</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200507</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200508</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200509</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200510</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200511</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200512</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200513</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200514</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200515</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200516</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200517</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200518</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200519</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200520</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200521</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200522</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200523</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200524</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200525</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200526</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200527</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200528</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200529</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200530</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200531</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200601</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200602</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200603</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200604</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200605</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200606</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200607</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200608</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200609</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200610</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200611</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200612</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200613</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200614</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200615</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200616</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200617</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200618</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200619</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200620</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200621</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200622</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200623</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200624</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200625</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200626</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200627</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200628</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200629</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200630</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200701</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200702</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200703</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200704</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200705</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200706</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200707</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200708</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200709</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200710</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200711</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200712</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200713</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200714</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200715</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200716</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200717</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200718</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200719</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200720</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200721</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200722</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200723</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200724</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200725</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200726</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200727</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200728</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200729</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200730</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200731</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200801</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200802</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200803</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200804</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200805</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200806</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200807</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200808</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200809</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200810</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200811</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200812</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200813</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200814</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200815</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200816</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200817</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200818</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200819</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200820</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200821</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200822</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200823</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200824</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200825</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200826</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200827</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200828</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200829</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200830</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200831</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200901</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200902</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200903</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200904</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200905</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200906</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200907</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200908</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200909</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200910</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200911</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200912</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200913</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200914</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200915</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200916</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200917</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200918</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200919</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200920</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200921</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200922</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200923</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200924</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200925</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200926</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200927</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200928</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200929</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20200930</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201001</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201002</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201003</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201004</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201005</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201006</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201007</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201008</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201009</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201010</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201011</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201012</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201013</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201014</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201015</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201016</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201017</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201018</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201019</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201020</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201021</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201022</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201023</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201024</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201025</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201026</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201027</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201028</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201029</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201030</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201031</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201101</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201102</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201103</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201104</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201105</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201106</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201107</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201108</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201109</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201110</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201111</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201112</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201113</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201114</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201115</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201116</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201117</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201118</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201119</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201120</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201121</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201122</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201123</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201124</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201125</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201126</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201127</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201128</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201129</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201130</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201201</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201202</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201203</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201204</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201205</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201206</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201207</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201208</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201209</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201210</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201211</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201212</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201213</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201214</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201215</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201216</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201217</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201218</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201219</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201220</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201221</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201222</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201223</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201224</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201225</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201226</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201227</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201228</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201229</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201230</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20201231</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210101</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210102</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210103</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210104</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210105</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210106</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210107</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210108</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210109</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210110</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210111</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210112</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210113</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210114</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210115</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210116</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210117</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210118</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210119</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210120</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210121</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210122</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210123</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210124</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210125</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210126</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210127</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210128</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210129</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210130</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210131</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210201</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210202</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210203</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210204</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210205</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210206</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210207</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210208</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210209</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210210</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210211</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210212</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210213</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210214</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210215</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210216</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210217</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210218</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210219</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210220</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210221</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210222</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210223</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210224</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210225</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210226</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210227</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210228</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210301</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210302</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210303</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210304</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210305</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210306</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210307</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210308</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210309</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210310</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210311</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210312</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210313</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210314</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210315</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210316</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210317</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210318</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210319</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210320</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210321</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210322</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210323</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210324</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210325</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210326</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210327</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210328</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210329</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210330</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210331</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210401</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210402</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210403</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210404</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210405</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210406</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210407</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210408</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210409</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210410</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210411</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210412</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210413</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210414</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210415</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210416</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210417</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210418</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210419</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210420</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210421</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210422</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210423</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210424</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210425</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210426</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210427</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210428</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210429</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210430</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210501</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210502</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210503</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210504</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210505</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210506</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210507</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210508</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210509</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210510</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210511</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210512</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210513</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210514</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210515</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210516</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210517</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210518</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210519</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210520</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210521</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210522</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210523</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210524</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210525</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210526</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210527</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210528</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210529</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210530</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210531</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210601</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210602</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210603</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210604</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210605</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210606</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210607</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210608</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210609</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210610</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210611</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210612</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210613</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210614</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210615</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210616</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210617</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210618</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210619</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210620</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210621</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210622</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210623</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210624</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210625</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210626</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210627</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210628</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210629</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210630</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210701</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210702</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210703</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210704</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210705</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210706</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210707</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210708</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210709</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210710</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210711</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210712</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210713</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210714</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210715</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210716</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210717</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210718</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210719</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210720</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210721</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210722</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210723</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210724</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210725</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210726</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210727</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210728</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210729</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210730</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210731</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210801</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210802</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210803</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210804</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210805</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210806</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210807</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210808</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210809</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210810</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210811</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210812</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210813</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210814</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210815</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210816</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210817</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210818</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210819</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210820</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210821</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210822</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210823</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210824</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210825</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210826</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210827</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210828</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210829</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210830</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210831</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210901</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210902</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210903</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210904</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210905</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210906</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210907</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210908</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210909</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210910</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210911</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210912</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210913</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210914</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210915</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210916</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210917</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210918</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210919</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210920</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210921</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210922</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210923</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210924</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210925</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210926</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210927</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210928</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210929</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20210930</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211001</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211002</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211003</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211004</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211005</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211006</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211007</dayStr>
+        <type type="string">2</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211008</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211009</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211010</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211011</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211012</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211013</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211014</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211015</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211016</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211017</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211018</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211019</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211020</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211021</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211022</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211023</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211024</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211025</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211026</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211027</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211028</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211029</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211030</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211031</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211101</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211102</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211103</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211104</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211105</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211106</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211107</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211108</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211109</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211110</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211111</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211112</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211113</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211114</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211115</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211116</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211117</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211118</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211119</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211120</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211121</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211122</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211123</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211124</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211125</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211126</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211127</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211128</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211129</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211130</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211201</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211202</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211203</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211204</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211205</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211206</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211207</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211208</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211209</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211210</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211211</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211212</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211213</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211214</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211215</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211216</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211217</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211218</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211219</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211220</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211221</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211222</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211223</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211224</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211225</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211226</dayStr>
+        <type type="string">1</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211227</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211228</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211229</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211230</dayStr>
+        <type type="string">0</type>
+    </item>
+    <item type="object">
+        <dayStr type="string">20211231</dayStr>
+        <type type="string">0</type>
+    </item>
+</root>
