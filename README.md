@@ -25,7 +25,7 @@ holidayXmlAll.xml
 可在浏览器控制台执行
 
 ``` sh
-concatHolidayArrAll.js
+calc20xx.js
 ```
 
 合并两年的节假日
