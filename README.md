@@ -13,5 +13,4 @@ concatHolidayArrAll.js
 #### 直接使用两年的数据
 holidayJSONAll.json
 
-holidayJSONAll.xml 
-
+holidayXmlAll.xml
