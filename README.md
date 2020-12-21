@@ -1,4 +1,4 @@
-holidayCalcJSONXml - 节假日计算、JSON、Xml三连
+holidayCalcJSONXml - 获取中国法定节假日API，更新到2021，节假日计算、JSON、Xml三连
 ============
 
 
