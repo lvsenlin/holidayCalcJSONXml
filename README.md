@@ -12,7 +12,7 @@ holidayCalcJSONXml - 中国法定节假日API，更新到2021
 
 直接使用
 ----------------
-包含两年的数据
+包含2020、2021两年的数据
 
 ``` sh
 holidayJSONAll.json
